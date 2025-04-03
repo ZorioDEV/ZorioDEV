@@ -13,7 +13,7 @@
 ###
 <p align="center">🛠️ Game Developer | 🌐 Web Engineer | 🎨 Graphic Designer<br>📍 Rochester, NY | ✉️ tjbye05@gmail.com | 📞 +1 (815) 988-9288<br></p>
   
-<p align="left">🚀 CURRENTLY:  <br>- 🚧 Developing *Fishodoro* web app @ RIT's MAGIC Studio <br>- 🕹️ Building games in Unreal Engine 5, Unity, & MonoGame  <br><br>🏛️ EDUCATION:  <br>- 🐯 Pursuing BS/MS in Game Design & Development @ RIT | Minors: Cybersecurity & Japanese<br>- 🎓 Graduated Keith Country Day School (4.14 GPA) | Co-Founded Game Development & Graphic Design Programs<br><br>🏆 HIGHLIGHTS:  <br>- 🚗 *Turbo Town Thrash* (Published Unreal Engine 5 game on Google Play)  <br>- 🐟 *Fishodoro* (Web productivity app @ RIT's MAGIC Spell Studios)  <br>- 🔐 180 Computer Solutions Intern (Security/IT systems)<br>- 🎯 Division 1 Valorant Player (RIT collegiate Esports)<br>- 🤖 FTC Robotics (Lead Builder & Captain @ KCDS)</p>
+<p align="left">🚀 CURRENTLY:  <br>- 🚧 Developing *Fishodoro* web app @ RIT's MAGIC Spell Studios <br>- 🕹️ Building games in Unreal Engine 5, Unity, & MonoGame  <br><br>🏛️ EDUCATION:  <br>- 🐯 Pursuing BS/MS in Game Design & Development @ RIT | Minors: Cybersecurity & Japanese<br>- 🎓 Graduated Keith Country Day School (4.14 GPA) | Co-Founded Game Development & Graphic Design Programs<br><br>🏆 HIGHLIGHTS:  <br>- 🚗 *Turbo Town Thrash* (Published Unreal Engine 5 game on Google Play)  <br>- 🐟 *Fishodoro* (Web productivity app @ RIT's MAGIC Spell Studios)  <br>- 🔐 180 Computer Solutions Intern (Security/IT systems)<br>- 🎯 Division 1 Valorant Player (RIT collegiate Esports)<br>- 🤖 FTC Robotics (Lead Builder & Captain @ KCDS)</p>
 
 ###
 
