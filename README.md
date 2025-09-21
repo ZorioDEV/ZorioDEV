@@ -11,9 +11,9 @@
 <h1 align="left"></h1>
 
 ###
-<p align="center">🛠️ Game Developer | 🌐 Web Engineer | 🎨 Graphic Designer<br>📍 Rochester, NY | ✉️ tjbye05@gmail.com | 📞 +1 (815) 988-9288<br></p>
+<p align="center">🛠️ Game Developer | 🌐 Web Engineer | 💾 Software Engineer<br>📍 Rochester, NY | ✉️ tjbye05@gmail.com | 📞 +1 (815) 988-9288<br></p>
   
-<p align="left">🚀 CURRENTLY:  <br>- 🚧 Developing *Fishodoro* web app @ RIT's MAGIC Spell Studios <br>- 🕹️ Building games in Unreal Engine 5, Unity, & MonoGame  <br><br>🏛️ EDUCATION:  <br>- 🐯 Pursuing BS/MS in Game Design & Development @ RIT | Minors: Cybersecurity & Japanese<br>- 🎓 Graduated Keith Country Day School (4.14 GPA) | Co-Founded Game Development & Graphic Design Programs<br><br>🏆 HIGHLIGHTS:  <br>- 🚗 *Turbo Town Thrash* (Published Unreal Engine 5 game on Google Play)  <br>- 🐟 *Fishodoro* (Web productivity app @ RIT's MAGIC Spell Studios)  <br>- 🔐 180 Computer Solutions Intern (Security/IT systems)<br>- 🎯 Division 1 Valorant Player (RIT collegiate Esports)<br>- 🤖 FTC Robotics (Lead Builder & Captain @ KCDS)</p>
+<p align="left">🚀 CURRENTLY:  <br>- 🚧 Developing Fishodoro mobile app @ RIT's MAGIC Spell Studios <br>- 🕹️ Building games in Unreal Engine 5, Unity, & MonoGame  <br><br>🏛️ EDUCATION:  <br>- 🐯 Pursuing BS/MS in Game Design & Development @ RIT | Minors: Cybersecurity & Japanese<br>- 🎓 Graduated Keith Country Day School (4.14 GPA) | Co-Founded Game Development & Graphic Design Programs<br><br>🏆 HIGHLIGHTS:  <br>- 🚗 Turbo Town Thrash (Published Unreal Engine 5 game on Google Play)  <br>- 🐟 Fishodoro (Mobile productivity app @ RIT's MAGIC Spell Studios)  <br>- 🔮 The Trials of Loch (Top-Down SHMUP wizard MonoGame game)  <br>- 🔐 180 Computer Solutions Intern (Security/IT systems)  <br>- 🤖 FTC Robotics (Lead Builder & Captain @ KCDS)</p>
 
 ###
 
@@ -68,7 +68,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tyler-bye-ba19b333a/" target="_blank">
+  <a href="www.linkedin.com/in/tjbye" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:tjbye05@gmail.com" target="_blank">
