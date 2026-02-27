@@ -11,7 +11,7 @@
 <h1 align="left"></h1>
 
 ###
-<p align="center">🛠️ Game Developer | 🌐 Web Engineer | 💾 Software Engineer<br>📍 Rochester, NY | ✉️ tjbye05@gmail.com | 📞 +1 (815) 988-9288<br></p>
+<p align="center">🛠️ Gameplay Programmer | 🌐 Web Engineer | 💾 Software Engineer<br>📍 Rochester, NY | ✉️ tjbye05@gmail.com | 📞 +1 (815) 988-9288<br></p>
   
 <p align="left">🚀 CURRENTLY:  <br>- 🕹️ Specializing in Gameplay Programming through focused study and project development.  <br>- 🚧 Enhancing technical skills via targeted Udemy courses in Unreal Engine 5 C++ and Blueprinting.  <br><br>🏛️ EDUCATION:  <br>- 🐯 Pursuing BS/MS in Game Design & Development @ RIT | Minors: Cybersecurity & Japanese<br>- 🎓 Graduated Keith Country Day School (4.14 GPA) | Co-Founded Game Development & Graphic Design Programs<br><br>🏆 HIGHLIGHTS:  <br>- 🚗 Turbo Town Thrash (Published Unreal Engine 5 game on Google Play)  <br>- 🐟 Fishodoro (Mobile productivity app @ RIT's MAGIC Spell Studios)  <br>- 🔮 The Trials of Loch (Top-Down SHMUP wizard MonoGame game)  <br>- 🔐 180 Computer Solutions Intern (Security/IT systems)  <br>- 🤖 FTC Robotics (Lead Builder & Captain @ KCDS)</p>
 
